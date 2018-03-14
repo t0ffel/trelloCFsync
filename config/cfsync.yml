@@ -1,0 +1,9 @@
+# Report structure
+cf_source:
+- board_id: 5aa68e90314472500bb60218
+  cf_name: Endeavours
+  lists:
+  - 5aa68ea03dc7961f5598c5ce
+  - 5aa68ea3687f9189c70a1788
+add_cf_to:
+ - 5aa6be141bcdf0ca07eebfc3

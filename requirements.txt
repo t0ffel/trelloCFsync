@@ -1,0 +1,6 @@
+git+https://github.com/t0ffel/py-trello@custom_fields#egg=py-trello
+google-api-python-client
+gspread
+pyyaml
+arrow
+nose2

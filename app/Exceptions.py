@@ -1,0 +1,2 @@
+class CFSyncConfigException(Exception):
+    pass;
